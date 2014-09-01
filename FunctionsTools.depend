@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1396300940 source:/media/Datos/Implementaciones/C_Cpp/FunctionsTools/src/functionstools.c
+	<functionstools.h>
+
+1396300717 /media/Datos/Implementaciones/C_Cpp/FunctionsTools/include/functionstools.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<assert.h>
+	<time.h>
+	<limits.h>
+
+1396301138 source:/media/Datos/Implementaciones/C_Cpp/FunctionsTools/main.c
+	<stdio.h>
+	<stdlib.h>
+	<functionstools.h>
+
